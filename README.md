@@ -7,9 +7,10 @@ With a talent for creating web and mobile applications, I improved my skills in 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=75983446135&text&type=phone_number&app_absent=0)
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecorreia_dev/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecorreiasilva&show_icons=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecorreiasilva)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipecorreiasilva&show_icons=true&theme=radial&bg_color=030014&title_color=7e22ce&text_color=ffffff&icon_color=a855f7" alt="Felipe's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecorreiasilva&layout=compact&theme=radial&bg_color=030014&title_color=7e22ce&text_color=ffffff" alt="Top Langs" height="170" />
+</div>
 
 ## Tecnologias que utilizo
 
