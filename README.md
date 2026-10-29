@@ -8,8 +8,7 @@ With a talent for creating web and mobile applications, I improved my skills in 
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecorreia_dev/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipecorreiasilva&show_icons=true&theme=dark" alt="Felipe's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecorreiasilva&layout=compact&theme=dark" alt="Top Langs" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecorreiasilva&theme=2077" alt="GitHub Stats" />
 </div>
 
 ## Tecnologias que utilizo
